@@ -1,5 +1,5 @@
 # test1
-Это Первый Тестовый Проект
+My Awesome Project
 
 - Initialize the project repository
 - Add the main feature
