@@ -1,5 +1,5 @@
 # test1
-My Awesome Project
+My Project
 
 - Initialize the project repository
 - Add the main feature
